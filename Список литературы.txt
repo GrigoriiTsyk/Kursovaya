@@ -1,0 +1,4 @@
+https://cloud.ru/ru/services/neural-networks - определение
+https://spravochnick.ru/programmirovanie/mashinnoe_obuchenie_istoriya_razvitiya_i_sovremennye_rezultaty/ - история
+https://gb.ru/blog/maschinnoe-obuchenie/ - история
+https://www.codastory.com/ru/at/ai-history/ - тоже история (посмотреть)
