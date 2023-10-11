@@ -5,3 +5,4 @@ https://www.codastory.com/ru/at/ai-history/ - тоже история (посм�
 https://fujitora.com/blog/poleznaya-informatsiya/vyyavlyaet-li-rentgenografiya-covid-19-/ - рентгенография в COVID-19 (вступление)
 https://habr.com/ru/companies/skillfactory/articles/565232/ - свёрточные нейронные сети, принцип работы
 https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8 -задача классификации
+https://habr.com/ru/articles/348000/ - свёрточная нейронная сеть
